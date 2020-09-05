@@ -1,1 +1,1 @@
-##                     Predict Price of Houses using Machine Learning
+##                     Predict Price Of Houses Using Machine Learning
