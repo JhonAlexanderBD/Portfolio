@@ -1,3 +1,3 @@
-# Projects with ML
+# What can you find?
 
 ## Table of contents
